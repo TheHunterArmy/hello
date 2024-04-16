@@ -1,0 +1,40 @@
+@charset "UTF-8";
+body{
+    background-image: url(../image/space_back.png);
+    background-color: black;
+    text-align: center;
+}
+h1{
+    color: white;
+    width: 400px;
+    height: 150px;
+    background-image: url(../image/Head_background.jpg);
+    background-size: cover;
+    border-color: orange;
+    border-style: solid;
+    border-radius: 10px;
+    border-bottom: 5px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    margin: 0 auto;
+}
+div{
+    background-image: url(../image/black_hole.jpg);
+    background-size: contain;
+    background-position: center;
+    width: 400px;
+    height: 270px;
+    border-color: orange;
+    border-style: dotted;
+    border-top-style: solid;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin: 0 auto;
+}
+p{
+    color: white;
+}
+a{
+    color: orange;
+    text-decoration-line: underline;
+}
